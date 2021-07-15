@@ -1,0 +1,12 @@
+{
+  "name": "ocrpdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["orc","ocrmypdf","ocrpdf","pdf searchable"],
+  "author": "Thiago de Freitas",
+  "license": "MIT"
+}
